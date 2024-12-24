@@ -1,0 +1,2 @@
+# RecursionError in Python Function
+This repository demonstrates a common error in recursive functions: forgetting to handle all possible input values.  The `my_function` in `bug.py` incorrectly handles negative inputs, leading to a `RecursionError`.  The solution in `bugSolution.py` adds the necessary check.
